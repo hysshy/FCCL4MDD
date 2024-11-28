@@ -1,6 +1,6 @@
 # FCL4DD
 
-This is the implement of FCCL4MDD. We trained with Derm7pt and JSIEC dataset.
+This is the implement of FCL4DD. We trained with Derm7pt and JSIEC dataset.
 
 ## Install Requirement
 
