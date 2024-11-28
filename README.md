@@ -1,4 +1,4 @@
-# FCCL4MDD
+# FCL4DD
 
 This is the implement of FCCL4MDD. We trained with Derm7pt and JSIEC dataset.
 
